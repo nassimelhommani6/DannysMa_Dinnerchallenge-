@@ -10,7 +10,7 @@ The following entity diagram represent the relationship between the database tab
 
 ![image](https://user-images.githubusercontent.com/130168330/230744830-4b9e9e1b-f773-4683-8864-cf608fc85bc2.png)
 
-Each of the following case study questions can be answered using a single SQL statement:
+Each of the following case study questions was answer in this projecy a single SQL statement (see DannysMa_Dinnerchallenge.sql) :
 
 - What is the total amount each customer spent at the restaurant?
 - How many days has each customer visited the restaurant?
